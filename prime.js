@@ -6,12 +6,12 @@ for (i = 1; i <= num; i++) {
 
   if (num % i == 0) {
 
-    count
+    count++;
   }
 }
 if (count == 2) {
-  console.log(Yes);
+  console.log("Yes");
 } else {
 
-  console.log(No);
+  console.log("No");
 }
