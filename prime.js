@@ -1,6 +1,6 @@
-num = 13;
+let num = 13;
 
-count = 0;
+let count = 0;
 
 for (i = 1; i <= num; i++) {
 
